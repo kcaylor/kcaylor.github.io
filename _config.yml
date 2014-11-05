@@ -1,0 +1,13 @@
+# Site settings
+title: Ecohydrology. Smrter
+email: kcaylor@princeton.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Tutorials for doing data analysis, viz, CLI-wizardry, 
+  and for all the internets.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: kcaylor
+github_username:  kcaylor
+
+# Build settings
+markdown: kramdown
